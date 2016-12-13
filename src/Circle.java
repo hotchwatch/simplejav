@@ -30,4 +30,10 @@ public class Circle {
 		           //more 
 		
 	}
+	public double getMole() {
+		System.out.println("I am done with size");  //some comments
+		return radius*Math.PI;   //some more comments
+		           //more 
+		
+	}
 }
