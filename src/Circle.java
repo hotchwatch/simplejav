@@ -19,6 +19,8 @@ public class Circle {
 	}
 	
 	public double getArea() {
+		System.out.println("I am done");
 		return radius*radius*Math.PI;
+		
 	}
 }
