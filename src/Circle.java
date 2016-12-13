@@ -20,7 +20,7 @@ public class Circle {
 	
 	public double getArea() {
 		System.out.println("I am done");  //some comments
-		return radius*radius*Math.PI;
+		return radius*radius*Math.PI;   //some more comments
 		
 	}
 }
