@@ -19,6 +19,27 @@ public class Circle {
 	}
 	
 	public double getArea() {
-		return radius*radius*Math.PI;
+		System.out.println("I am done");  //some comments
+		return radius*radius*Math.PI;   //some more comments
+		           //more 
+		
+	}
+	public double getSize() {
+		System.out.println("I am done with size");  //some comments
+		return radius*Math.PI;   //some more comments
+		           //more 
+		
+	}
+	public double getMole() {
+		System.out.println("I am done with size");  //some comments
+		return radius*Math.PI;   //some more comments
+		           //more 
+		
+	}
+	public double getMone() {
+		System.out.println("I ame");  //some comments
+		return radius*Math.PI;   //some more comments
+		           //more 
+		
 	}
 }
