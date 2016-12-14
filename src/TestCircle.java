@@ -10,7 +10,11 @@ public class TestCircle {
 
 		Circle c2 = new Circle(2.0);
 		
-		System.out.println("The overriden circle has radius of: " + c2.getRadius() + "and areaa of: " + c2.getArea()); 
+		System.out.println("The overriden circle has radius of: " + c2.getRadius() + "and areaa of: " + c2.getArea() + c2.getMole()); 
+	
+		Circle c3 = new Circle (2.5);
+		
+		System.out.println("The new overriden circle has radius of: " + c3.getRadius() + "and area of: " + c3.getMole());
 	}
 
 }
