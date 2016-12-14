@@ -36,4 +36,10 @@ public class Circle {
 		           //more 
 		
 	}
+	public double getMone() {
+		System.out.println("I ame");  //some comments
+		return radius*Math.PI;   //some more comments
+		           //more 
+		
+	}
 }
